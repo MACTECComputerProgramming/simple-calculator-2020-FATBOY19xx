@@ -1,0 +1,17 @@
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.exe
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.deps.json
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.runtimeconfig.json
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.runtimeconfig.dev.json
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.dll
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\bin\Debug\netcoreapp3.1\simple_calculatorIan Mollick.pdb
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.csprojAssemblyReference.cache
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick_MarkupCompile.cache
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick_MarkupCompile.lref
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.g.resources
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.AssemblyInfoInputs.cache
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.AssemblyInfo.cs
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.dll
+C:\Users\maconrm180\source\repos\simple_calculatorIan Mollick\obj\Debug\netcoreapp3.1\simple_calculatorIan Mollick.pdb
